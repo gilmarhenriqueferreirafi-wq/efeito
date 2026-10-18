@@ -1,4 +1,3 @@
-# probe.py - python probe.py https//bzzhr.toe3r5uyh44ptv
 import sys
 from curl_cffi import requests as cr
 
